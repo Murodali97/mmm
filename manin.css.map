@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,KAAK;EACb,MAAM,EAAE,aAAa;CACxB",
+    "sources": [
+        "manin.scss"
+    ],
+    "names": [],
+    "file": "manin.css"
+}
